@@ -1,2 +1,2 @@
-# Config_sing-box
-Config sing-box
+# Config sing-box box-for-magisk
+Config sing-box box-for-magisk
